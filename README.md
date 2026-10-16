@@ -6,7 +6,7 @@
 
 ## Hey, I'm Timmy 👋
 
-<small>I'm working on [EcoGPT](https://ecogpt.com).</small>
+<small>founding engineer @ ecogpt</small>
 
 <small>[timmymckeegan.com](https://timmymckeegan.com)</small>
 
