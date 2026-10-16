@@ -1,11 +1,16 @@
 {
   "name": "Timmy",
   "intro": [
-    "I'm working on [EcoGPT](https://ecogpt.com).",
+    "founding engineer @ ecogpt",
     "[timmymckeegan.com](https://timmymckeegan.com)"
   ],
   "socials": {
-    "x": "TimmyMckeegan"
+    "x": "TimmyMckeegan",
+    "instagram": "",
+    "linkedin": ""
   },
-  "sections": {}
+  "sections": {
+    "Experience": [],
+    "Accomplishments": []
+  }
 }
